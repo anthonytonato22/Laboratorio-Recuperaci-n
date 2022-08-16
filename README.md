@@ -85,6 +85,8 @@ RTH=5ohm
 
 4.- VÍDEO.
 
+https://youtu.be/UQz7MYVASXc
+
 5.- CONCLUSIONES.
 
 Para concluir tienen la posibilidad de ser separados y al instante de sumarlos se puede ofrecer cuenta que ay una exactitud bastante enorme entre ellos y lo tenemos la posibilidad de verificar con las tablas comparativas, este teorema es como un propiedad matemática viéndolo a partir de otro criterio el cual diria que la suma de los componentes es igual al elemento total con el voltaje equivalente de Thévenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (RTH) es la resistencia total que aparece entre dos terminales.
